@@ -1,0 +1,9 @@
+FE_Score = 88.03
+GB_Score = 76.66
+IC_Score = 80.22
+CP_Score = 59.25
+print("--------Your Score--------")
+print("Foungation English :",FE_Score)
+print("General Business :",GB_Score)
+print("Introduction to Coputer Systems :",IC_Score)
+print("Comeputer Programming :",CP_Score)
